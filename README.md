@@ -36,7 +36,13 @@ Replace `<repository-url>` with the actual URL of your GitHub repository.
 
 ## 5. Create a File:
 
-- `touch hello.txt`
+- ```bash
+
+  ```
+
+touch hello.txt
+
+````
 
 - Add a simple text message (e.g., "Hello, Git!").
 
@@ -46,9 +52,9 @@ Replace `<repository-url>` with the actual URL of your GitHub repository.
 
 ```bash
 
-`git add hello.txt`
+git add hello.txt
 
-```
+````
 
 - Commit the changes.
 
@@ -66,7 +72,7 @@ git commit -m "Add hello.txt with a greeting"
 
 ```bash
 
-`git push -u origin main`
+git push -u origin main
 
 ```
 
