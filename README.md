@@ -8,7 +8,7 @@
 
 - Initialize it with a README file.
 
-Task 2: Local Setup
+# Task 2: Local Setup
 
 ## 2. Local Folder Setup:
 
@@ -26,13 +26,13 @@ Task 2: Local Setup
 
 ```
 
-`git remote add origin <repository-url>`
+git remote add origin <repository-url>
 
 ```
 
 Replace `<repository-url>` with the actual URL of your GitHub repository.
 
-Task 3: Making Changes
+# Task 3: Making Changes
 
 ## 5. Create a File:
 
